@@ -1,0 +1,28 @@
+Name	Artist	Composer	Album	Grouping	Genre	Size	Time	Disc Number	Disc Count	Track Number	Track Count	Year	Date Modified	Date Added	Bit Rate	Sample Rate	Volume Adjustment	Kind	Equaliser	Comments	Plays	Last Played	Skips	Last Skipped	My Rating
+PARE 1 - Stakeholders	Sarah’s iPhone		Voice Memos		Voice Memo	14963853	1864						08/10/2012 15:22	09/12/2012 20:00	64	44100		AAC audio file							
+PARE 2 - Requirements and bit about project	Sarah’s iPhone		Voice Memos		Voice Memo	17628369	2196						10/10/2012 09:08	09/12/2012 20:00	64	44100		AAC audio file							
+Project - Week 1	Sarah’s iPhone		Voice Memos		Voice Memo	22865176	2839						11/10/2012 14:10	09/12/2012 20:00	64	44100		AAC audio file							
+PARE 3 - Analysis and negotiation	Sarah’s iPhone		Voice Memos		Voice Memo	14567402	1813						17/10/2012 09:18	09/12/2012 20:00	64	44100		AAC audio file							
+EWT - XML & web services	Sarah’s iPhone		Voice Memos		Voice Memo	27820666	3451						22/10/2012 13:10	09/12/2012 20:00	64	44100		AAC audio file							
+PARE 4	Sarah’s iPhone		Voice Memos		Voice Memo	19797918	2468						22/10/2012 15:05	09/12/2012 20:00	64	44100		AAC audio file							
+ADD - Assignment intro	Sarah’s iPhone		Voice Memos		Voice Memo	9725980	1212						25/10/2012 10:05	09/12/2012 20:00	64	44100		AAC audio file							
+25/10/2012 15:19	Sarah’s iPhone		Voice Memos		Voice Memo	21138705	2589						25/10/2012 15:19	09/12/2012 20:00	64	44100		AAC audio file							
+PARE	Sarah’s iPhone		Voice Memos		Voice Memo	19518844	2428						29/10/2012 15:16	09/12/2012 20:00	64	44100		AAC audio file							
+SSD - Burn down/planning	Sarah’s iPhone		Voice Memos		Voice Memo	19209440	2389						30/10/2012 13:09	09/12/2012 20:00	64	44100		AAC audio file							
+PARE - 31/10/12	Sarah’s iPhone		Voice Memos		Voice Memo	19866074	2473						31/10/2012 09:05	09/12/2012 20:00	64	44100		AAC audio file							
+SSD meeting 5/11/12	Sarah’s iPhone		Voice Memos		Voice Memo	10551641	1274						05/11/2012 11:06	09/12/2012 20:00	64	44100		AAC audio file							
+05/11/2012 11:06	Sarah’s iPhone		Voice Memos		Voice Memo	3063424	371						05/11/2012 11:06	09/12/2012 20:00	64	44100		AAC audio file							
+07/11/2012 09:10	Sarah’s iPhone		Voice Memos		Voice Memo	8880750	1106						07/11/2012 09:10	09/12/2012 20:00	64	44100		AAC audio file							
+Sheila chat about project	Sarah’s iPhone		Voice Memos		Voice Memo	1968524	244						07/11/2012 10:38	09/12/2012 20:00	64	44100		AAC audio file							
+Data Warehouse Lecture	Sarah’s iPhone		Voice Memos		Voice Memo	22241791	2775						08/11/2012 09:07	09/12/2012 20:00	64	44100		AAC audio file							
+ADD - tips on assignment and report	Sarah’s iPhone		Voice Memos		Voice Memo	7251221	904						08/11/2012 09:59	09/12/2012 20:00	64	44100		AAC audio file							
+EWT JQuery	Sarah’s iPhone		Voice Memos		Voice Memo	17433222	2167						12/11/2012 13:06	09/12/2012 20:00	64	44100		AAC audio file							
+PARE-group organisation	Sarah’s iPhone		Voice Memos		Voice Memo	5309859	660						12/11/2012 15:07	09/12/2012 20:00	64	44100		AAC audio file							
+ADD - theme 2 assignment	Sarah’s iPhone		Voice Memos		Voice Memo	6810056	847						15/11/2012 10:27	09/12/2012 20:00	64	44100		AAC audio file							
+PARE GROUP MEETING 21/11/12	Sarah’s iPhone		Voice Memos		Voice Memo	34980805	4224						21/11/2012 12:27	09/12/2012 20:00	64	44100		AAC audio file							
+ADD THEME 2 PART 2	Sarah’s iPhone		Voice Memos		Voice Memo	5728447	713						22/11/2012 10:24	09/12/2012 20:00	64	44100		AAC audio file							
+SSD SEMINAR 3 tips	Sarah’s iPhone		Voice Memos		Voice Memo	25805109	3142						22/11/2012 15:07	09/12/2012 20:00	64	44100		AAC audio file							
+EWT keyevents etc	Sarah’s iPhone		Voice Memos		Voice Memo	17820042	2218						26/11/2012 13:07	09/12/2012 20:00	64	44100		AAC audio file							
+PARE - questionnaires	Sarah’s iPhone		Voice Memos		Voice Memo	25420966	3167						28/11/2012 09:04	09/12/2012 20:00	64	44100		AAC audio file							
+01/12/2012 10:12	Sarah’s iPhone		Voice Memos		Voice Memo	14798021	1845						01/12/2012 10:12	09/12/2012 20:00	64	44100		AAC audio file							
+PARE MEETING WITH KENTON AND ROBBIE	Sarah’s iPhone		Voice Memos		Voice Memo	23715689	2947						03/12/2012 12:51	09/12/2012 20:00	64	44100		AAC audio file							

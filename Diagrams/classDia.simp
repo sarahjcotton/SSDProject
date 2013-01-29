@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sim-project version="4.97">
+  <meta>
+    <name>Project</name>
+    <authors />
+    <description />
+  </meta>
+  <management>
+    <persons />
+    <tasks />
+    <requirements />
+    <issues />
+    <to-dos />
+  </management>
+  <types>
+    <type-sets>
+      <type-set file="UmlTypes.xml" />
+    </type-sets>
+    <custom-types />
+  </types>
+  <items>
+    <item id="di427846355108558248" cid="C001" type="class" name="DatabaseConnect" style-class="" is-abstract="false">
+      <stereotypes />
+      <tagged-values />
+      <documentation />
+      <associated-diagrams />
+      <owned-items />
+      <style class="default" />
+      <attributes>
+        <attribute id="" name="Connection" type="" type-id="" visibility="private" abstract="false" virtual="false" default-value="">
+          <stereotypes />
+          <documentation />
+        </attribute>
+        <attribute id="" name="ResultSet" type="" type-id="" visibility="private" abstract="false" virtual="false" default-value="">
+          <stereotypes />
+          <documentation />
+        </attribute>
+        <attribute id="" name="PreparedStatement" type="" type-id="" visibility="private" abstract="false" virtual="false" default-value="">
+          <stereotypes />
+          <documentation />
+        </attribute>
+      </attributes>
+      <operations>
+        <operation id="" name="ConnectDB" type="" type-id="" visibility="public" abstract="false" virtual="false" static="false">
+          <parameters />
+          <stereotypes />
+          <documentation />
+        </operation>
+      </operations>
+      <template-parameters />
+    </item>
+    <item id="di161972662510943229" cid="C002" type="class" name="GUI" style-class="" is-abstract="false">
+      <stereotypes />
+      <tagged-values />
+      <documentation />
+      <associated-diagrams />
+      <owned-items />
+      <style class="default" />
+      <attributes>
+        <attribute id="" name="Connection" type="" type-id="" visibility="private" abstract="false" virtual="false" default-value="">
+          <stereotypes />
+          <documentation />
+        </attribute>
+        <attribute id="" name="ResultSet" type="" type-id="" visibility="private" abstract="false" virtual="false" default-value="">
+          <stereotypes />
+          <documentation />
+        </attribute>
+        <attribute id="" name="PreparedStatement" type="" type-id="" visibility="private" abstract="false" virtual="false" default-value="">
+          <stereotypes />
+          <documentation />
+        </attribute>
+      </attributes>
+      <operations>
+        <operation id="" name="GUI" type="" type-id="" visibility="public" abstract="false" virtual="false" static="false">
+          <parameters />
+          <stereotypes />
+          <documentation />
+        </operation>
+        <operation id="" name="NewOperation2" type="" type-id="" visibility="public" abstract="false" virtual="false" static="false">
+          <parameters />
+          <stereotypes />
+          <documentation />
+        </operation>
+      </operations>
+      <template-parameters />
+    </item>
+  </items>
+  <models>
+    <model id="p237764720403171371" name="Model 1" type="" namespace="">
+      <documentation />
+      <sub-models />
+      <diagram type="uml-class" id="p934830395682864980" name="ClassDiagram1">
+        <meta>
+          <authors />
+          <description />
+          <creation-date>12/11/2012 13:23:02</creation-date>
+          <change-date>12/11/2012 13:23:02</change-date>
+          <revision-count>0</revision-count>
+          <version />
+        </meta>
+        <documentation />
+        <layer name="Default" visible="true" enabled="true" locked="false">
+          <item id="di427846355108558248" show-cid="false" show-parent-name="false" show-stereotypes="true" show-tagged-values="false" type="entity">
+            <layout ax="151" ay="109" awidth="150" aheight="170" x="151" y="109" width="0" height="0" />
+            <class />
+          </item>
+          <item id="di161972662510943229" show-cid="false" show-parent-name="false" show-stereotypes="true" show-tagged-values="false" type="entity">
+            <layout ax="42" ay="379" awidth="150" aheight="170" x="42" y="379" width="0" height="0" />
+            <class />
+          </item>
+        </layer>
+      </diagram>
+    </model>
+  </models>
+</sim-project>

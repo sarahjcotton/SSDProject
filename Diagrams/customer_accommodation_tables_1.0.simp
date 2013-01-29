@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sim-project version="4.97">
+  <meta>
+    <name>Project</name>
+    <authors />
+    <description />
+  </meta>
+  <management>
+    <persons />
+    <tasks />
+    <requirements />
+    <issues />
+    <to-dos />
+  </management>
+  <types>
+    <type-sets>
+      <type-set file="UmlTypes.xml" />
+    </type-sets>
+    <custom-types />
+  </types>
+  <items>
+    <item id="di931176657622427298" cid="ENT001" type="erd-entity" name="CUSTOMER" style-class="" is-abstract="false">
+      <stereotypes />
+      <tagged-values />
+      <documentation>{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\f0\fs17\par
+}
+</documentation>
+      <associated-diagrams />
+      <owned-items />
+      <style class="default" />
+      <attributes>
+        <attribute name="customer_id" type="integer primary key" type-size="" foreign-key="false" primary-key="true" nullable="false" description="" default-value="" />
+        <attribute name="first_name" type="text" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" />
+        <attribute name="second_name" type="text" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" />
+        <attribute name="address_1" type="text" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" />
+        <attribute name="address_2" type="text" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" />
+        <attribute name="postcode" type="text" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" />
+      </attributes>
+    </item>
+    <item id="di960037225228326120" cid="ENT002" type="erd-entity" name="ACCOMMODATION" style-class="" is-abstract="false">
+      <stereotypes />
+      <tagged-values />
+      <documentation>{\rtf1\ansi\ansicpg1252\deff0\deflang2057{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}
+\viewkind4\uc1\pard\f0\fs17\par
+}
+</documentation>
+      <associated-diagrams />
+      <owned-items />
+      <style class="default" />
+      <attributes>
+        <attribute name="property_id" type="integer primary key" type-size="" foreign-key="false" primary-key="true" nullable="false" description="" default-value="" />
+        <attribute name="property_name" type="text" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" />
+        <attribute name="address_1" type="text" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" />
+        <attribute name="town" type="text" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" />
+        <attribute name="postcode" type="text" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" />
+        <attribute name="property_type" type="text" type-size="" foreign-key="false" primary-key="false" nullable="false" description="" default-value="" />
+      </attributes>
+    </item>
+    <item id="di686576983294783368" cid="REL001" type="erd-relationship" name="" style-class="" is-abstract="false">
+      <stereotypes />
+      <tagged-values />
+      <documentation />
+      <associated-diagrams />
+      <owned-items />
+      <style class="default" />
+      <erd-relation type="Association" multiplicity-from="1" multiplicity-to="1..*" />
+    </item>
+  </items>
+  <models>
+    <model id="p494106139937408653" name="Model 1" type="model" namespace="">
+      <documentation />
+      <sub-models />
+      <diagram type="entity-relationship" id="p463853919720508837" name="EntityRelationshipDiagram1">
+        <meta>
+          <authors />
+          <description />
+          <creation-date>11/05/2012 17:55:41</creation-date>
+          <change-date>11/05/2012 19:25:09</change-date>
+          <revision-count>0</revision-count>
+          <version />
+        </meta>
+        <documentation />
+        <layer name="Default" visible="true" enabled="true" locked="false">
+          <item id="di931176657622427298" show-cid="false" show-parent-name="false" show-stereotypes="true" show-tagged-values="false" type="entity">
+            <layout ax="240" ay="184" awidth="301" aheight="134" x="240" y="184" width="301" height="134" />
+            <erd-entity />
+          </item>
+          <item id="di960037225228326120" show-cid="false" show-parent-name="false" show-stereotypes="true" show-tagged-values="false" type="entity">
+            <layout ax="605" ay="187" awidth="308" aheight="141" x="605" y="187" width="308" height="141" />
+            <erd-entity />
+          </item>
+        </layer>
+      </diagram>
+    </model>
+  </models>
+</sim-project>
